@@ -1,6 +1,6 @@
 # Whisper
 
-[[Blog]](https://openai.com/blog/whisper)
+[[Blog]](https://github.com/MsulimanKhan/whisper-model-for-specch-emotion-recognition-.git)
 [[Paper]](https://arxiv.org/abs/2212.04356)
 [[Model card]](https://github.com/openai/whisper/blob/main/model-card.md)
 [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb)

@@ -4,3 +4,4 @@ torch==2.1.0
 tqdm
 more-itertools
 tiktoken==0.3.3
+git 
